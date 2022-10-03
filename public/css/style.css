@@ -297,11 +297,6 @@ ul.navbar-bawah li a {
   margin: 0.5rem auto auto auto;
   height: 400px;
   width: 100%;
-  border-radius: var(--lengkung);
-  -webkit-border-radius: var(--lengkung);
-  -moz-border-radius: var(--lengkung);
-  -ms-border-radius: var(--lengkung);
-  -o-border-radius: var(--lengkung);
 }
 
 .lokasi .akad-nikah,
@@ -449,12 +444,6 @@ ul.navbar-bawah li a {
 .gallery .isi-gallery .gallery5 {
   grid-area: g5;
 }
-
-/* @media (min-width: 1200px) and (max-width: 1399.98px) {
-  .header img.ellipse:nth-child(1) {
-    left: 30%;
-  }
-} */
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
   .header img.ellipse:nth-child(1) {
